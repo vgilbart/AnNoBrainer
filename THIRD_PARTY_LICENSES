@@ -1,0 +1,121 @@
+ Name               Version    License                                             URL
+ simplejson           3.19.2        Academic Free License (AFL); MIT License                 https://github.com/simplejson/simplejson
+ SimpleITK            2.3.0         Apache Software License                                  http://simpleitk.org/
+ fastai               2.7.13        Apache Software License                                  https://github.com/fastai/fastai
+ fastcore             1.5.29        Apache Software License                                  https://github.com/fastai/fastcore/
+ fastdownload         0.0.7         Apache Software License                                  https://github.com/fastai/fastdownload/tree/master/
+ fastprogress         1.0.3         Apache Software License                                  https://github.com/fastai/fastprogress
+ importlib-resources  6.1.0         Apache Software License                                  https://github.com/python/importlib_resources
+ requests             2.31.0        Apache Software License                                  https://requests.readthedocs.io
+ requests-toolbelt    1.0.0         Apache Software License                                  https://toolbelt.readthedocs.io/
+ tzdata               2023.3        Apache Software License                                  https://github.com/python/tzdata
+ packaging            23.2          Apache Software License; BSD License                     https://github.com/pypa/packaging
+ Jinja2               3.1.2         BSD License                                              https://palletsprojects.com/p/jinja/
+ MarkupSafe           2.1.3         BSD License                                              https://palletsprojects.com/p/markupsafe/
+ blis                 0.7.11        BSD License                                              https://github.com/explosion/cython-blis
+ cairocffi            1.6.1         BSD License                                              https://doc.courtbouillon.org/cairocffi/stable/changelog.html
+ click                8.1.7         BSD License                                              https://palletsprojects.com/p/click/
+ contourpy            1.1.1         BSD License                                              https://github.com/contourpy/contourpy
+ cssselect2           0.7.0         BSD License                                              https://doc.courtbouillon.org/cssselect2/
+ cycler               0.12.1        BSD License                                              https://matplotlib.org/cycler/
+ fsspec               2023.10.0     BSD License                                              https://github.com/fsspec/filesystem_spec
+ h5py                 3.10.0        BSD License                                              https://www.h5py.org/
+ idna                 3.4           BSD License                                              https://github.com/kjd/idna
+ kiwisolver           1.4.5         BSD License                                              https://github.com/nucleic/kiwi
+ kiwisolver           1.2.0         BSD                                                      https://github.com/nucleic/kiwi
+ lazy_loader          0.3           BSD License                                              https://github.com/scientific-python/lazy_loader
+ mpmath               1.3.0         BSD License                                              http://mpmath.org/
+ mpmath                1.2.1        BSD License                                              http://mpmath.org/
+ networkx             3.2.1         BSD License                                              https://networkx.org/
+ networkx             2.5           BSD License                                              http://networkx.github.io/
+ numpy                1.26.1        BSD License                                              https://numpy.org
+ numpy                1.21.6        BSD License                                              https://www.numpy.org
+ pandas               2.1.2         BSD License                                              https://pandas.pydata.org
+ pandas               1.1.2         BSD                                                      https://pandas.pydata.org
+ patsy                0.5.3         BSD License                                              https://github.com/pydata/patsy
+ pycparser            2.21          BSD License                                              https://github.com/eliben/pycparser
+ scikit-image         0.22.0        BSD License                                              https://scikit-image.org
+ scikit-image         0.17.2        BSD License                                              https://scikit-image.org
+ scikit-learn         1.3.2         BSD License                                              http://scikit-learn.org
+ scikit-learn         0.24.1        new BSD                                                  http://scikit-learn.org
+ scipy                1.11.3        BSD License                                              https://scipy.org/
+ scipy                1.5.2         BSD License                                              https://www.scipy.org
+ statsmodels          0.14.0        BSD License                                              https://www.statsmodels.org/
+ sympy                1.12          BSD License                                              https://sympy.org
+ sympy                1.10.1        BSD License                                              https://sympy.org
+ threadpoolctl        3.2.0         BSD License                                              https://github.com/joblib/threadpoolctl
+ threadpoolctl        2.1.0         BSD License                                              https://github.com/joblib/threadpoolctl
+ tifffile             2023.9.26     BSD License                                              https://www.cgohlke.com
+ tifffile             2020.9.22     BSD License                                              https://www.lfd.uci.edu/~gohlke/
+ tinycss2             1.2.1         BSD License                                              https://www.courtbouillon.org/tinycss2
+ webencodings         0.5.1         BSD License                                              https://github.com/SimonSapin/python-webencodings
+ rfc3987              1.3.8         GNU General Public License v3 or later (GPLv3+)          http://pypi.python.org/pypi/rfc3987
+ CairoSVG             2.7.1         GNU Lesser General Public License v3 or later (LGPLv3+)  https://courtbouillon.org/cairosvg
+ spacy-loggers        1.0.5         MIT                                                      https://github.com/explosion/spacy-loggers
+ wasabi               1.1.2         MIT                                                      https://github.com/explosion/wasabi
+ PyYAML               6.0.1         MIT License                                              https://pyyaml.org/
+ annotated-types      0.6.0         MIT License                                              UNKNOWN
+ catalogue            2.0.10        MIT License                                              https://github.com/explosion/catalogue
+ cffi                 1.16.0        MIT License                                              http://cffi.readthedocs.org
+ charset-normalizer   3.3.1         MIT License                                              https://github.com/Ousret/charset_normalizer
+ cloudpathlib         0.16.0        MIT License                                              https://github.com/drivendataorg/cloudpathlib
+ confection           0.1.3         MIT License                                              https://github.com/explosion/confection
+ cymem                2.0.8         MIT License                                              https://github.com/explosion/cymem
+ fonttools            4.43.1        MIT License                                              http://github.com/fonttools/fonttools
+ future               0.18.3        MIT License                                              https://python-future.org
+ langcodes            3.3.0         MIT License                                              https://github.com/rspeer/langcodes
+ murmurhash           1.0.10        MIT License                                              https://github.com/explosion/murmurhash
+ nptyping             2.5.0         MIT License                                              https://github.com/ramonhagenaars/nptyping
+ preshed              3.0.9         MIT License                                              https://github.com/explosion/preshed
+ pydantic             2.4.2         MIT License                                              https://github.com/pydantic/pydantic
+ pydantic             1.8           MIT License                                              https://github.com/samuelcolvin/pydantic
+ pydantic_core        2.10.1        MIT License                                              https://github.com/pydantic/pydantic-core
+ pynrrd               1.0.0         MIT License                                              https://github.com/mhe/pynrrd
+ pyparsing            3.1.1         MIT License                                              https://github.com/pyparsing/pyparsing/
+ pyparsing            2.4.7         MIT License                                              https://github.com/pyparsing/pyparsing/
+ pytz                 2023.3.post1  MIT License                                              http://pythonhosted.org/pytz
+ pytz                 2020.1        MIT License                                              http://pythonhosted.org/pytz
+ smart-open           6.4.0         MIT License                                              https://github.com/piskvorky/smart_open
+ spacy                3.7.2         MIT License                                              https://spacy.io
+ spacy-legacy         3.0.12        MIT License                                              https://spacy.io
+ srsly                2.4.8         MIT License                                              https://github.com/explosion/srsly
+ thinc                8.2.1         MIT License                                              https://github.com/explosion/thinc
+ typer                0.9.0         MIT License                                              https://github.com/tiangolo/typer
+ urllib3              2.0.7         MIT License                                              https://github.com/urllib3/urllib3/blob/main/CHANGES.rst
+ weasel               0.3.3         MIT License                                              https://github.com/explosion/weasel/
+ zipp                 3.17.0        MIT License                                              https://github.com/jaraco/zipp
+ tqdm                 4.66.1        MIT License; Mozilla Public License 2.0 (MPL 2.0)        https://tqdm.github.io
+ allensdk             0.14.5        Other/Proprietary License                                https://github.com/AllenInstitute/AllenSDK/tree/v0.14.5
+ defusedxml           0.7.1         Python Software Foundation License                       https://github.com/tiran/defusedxml
+ typing_extensions    4.8.0         Python Software Foundation License                       https://github.com/python/typing_extensions
+ filelock             3.13.1        The Unlicense (Unlicense)                                https://github.com/tox-dev/py-filelock
+ onnx               1.13.0     Apache License v2.0                                 https://github.com/onnx/onnx
+ flatbuffers        23.1.4     Apache Software License                             https://google.github.io/flatbuffers/
+ packaging          23.0       Apache Software License; BSD License                UNKNOWN
+ python-dateutil    2.8.1      Apache Software License; BSD License                https://dateutil.readthedocs.io
+ python-dateutil    2.8.2      Apache Software License; BSD License                https://github.com/dateutil/dateutil
+ cycler             0.10.0     BSD                                                 http://github.com/matplotlib/cycler
+ torchvision        0.5.0      BSD                                                 https://github.com/pytorch/vision
+ torchvision        0.16.0     BSD                                                 https://github.com/pytorch/vision
+ decorator          4.4.2      BSD License                                         https://github.com/micheles/decorator
+ imageio            2.9.0      BSD License                                         https://github.com/imageio/imageio
+ imageio            2.31.6     BSD License                                         https://github.com/imageio/imageio
+ joblib             1.0.0      BSD License                                         https://joblib.readthedocs.io
+ joblib             1.3.2      BSD License                                         https://joblib.readthedocs.io
+ torch              1.4.0      BSD License                                         https://pytorch.org/
+ torch              2.1.0      BSD License                                         https://pytorch.org/
+ protobuf           3.20.3     BSD-3-Clause                                        https://developers.google.com/protocol-buffers/
+ Pillow             7.2.0      Historical Permission Notice and Disclaimer (HPND)  https://python-pillow.org
+ Pillow             10.0.1     Historical Permission Notice and Disclaimer (HPND)  https://python-pillow.org
+ PyWavelets         1.1.1      MIT License                                         https://github.com/PyWavelets/pywt
+ coloredlogs        15.0.1     MIT License                                         https://coloredlogs.readthedocs.io
+ humanfriendly      10.0       MIT License                                         https://humanfriendly.readthedocs.io
+ onnxruntime        1.13.1     MIT License                                         https://onnxruntime.ai
+ opencv-python      4.4.0.44   MIT License                                         https://github.com/skvark/opencv-python
+ six                1.15.0     MIT License                                         https://github.com/benjaminp/six
+ six                1.16.0     MIT License                                         https://github.com/benjaminp/six
+ certifi            2020.6.20  Mozilla Public License 2.0 (MPL 2.0)                https://certifiio.readthedocs.io/en/latest/
+ certifi            2023.7.22  Mozilla Public License 2.0 (MPL 2.0)                https://github.com/certifi/python-certifi
+ matplotlib         3.3.2      Python Software Foundation License                  https://matplotlib.org
+ matplotlib         3.8.0      Python Software Foundation License                  https://matplotlib.org
+ typing-extensions  3.7.4.3    Python Software Foundation License                  https://github.com/python/typing/blob/master/typing_extensions/README.rst

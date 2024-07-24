@@ -1,0 +1,6 @@
+region,scanner_id,slide_id,row_col,1,2,3,4,5
+CP,2121,1,1,2,6,10,14,blank
+CP,2121,1,2,26,30,12,16,blank
+CP,2121,1,3,50,54,34,38,blank
+CP,2121,1,4,blank,blank,36,40,blank
+CP,2121,1,5,blank,60,58,62,64

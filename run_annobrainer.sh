@@ -1,0 +1,2 @@
+export ANNOBRAINER_HOME=/annoBrainer
+python3 annobrainer_pipeline/run_pipeline.py
