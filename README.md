@@ -24,7 +24,7 @@ assessment standards (>85% of cases) and enables high-throughput image analysis 
   * Pipeline has been tested only on Ubuntu and Debian servers, but it should be possible to run it on Windows
 ### Clone repo
 ```bash
-git clone git@https://github.com/MSDLLCpapers/spmpp-annoBrainer-pipeline.git
+git clone git@https://github.com/MSDLLCpapers/AnNoBrainer.git
 ```
 
 ### Create python virtual environment, install dependencies
